@@ -2,9 +2,9 @@
 
 ## Project Detail
 
-|Project Name | Description |Tools|
-|-------------|-------------|-----|
-|app.vwo.com| |Tested a web application for functionality and usability. | JIRA, Selenium, TestRail |
+| Project Name | Description | Tools Used |
+|--------------|-------------|------------|
+| app.vwo.com  | Tested a web application for functionality and usability. | JIRA, TestRail |
 
 ## Getting Started
 
@@ -19,13 +19,15 @@ If you have any feedback or suggestions for improvements, please feel free to op
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 You can copy and paste this code into a Markdown file and modify the text as needed.
 
-## Testing Path
-  1 Test Plan
-  2 Test Scenario
-  3 Test Case
-  4 RTM
-  5 Bug Report 
-  6 Test Matrix
+
+### Test Templates
+1 Test Plan
+2 Test Scenario
+3 Test Case
+4 Bug Report
+5 RTM
+6 Test Matrix
+
   
  
 
